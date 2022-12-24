@@ -1,0 +1,36 @@
+{
+    "Data": [
+        {
+            "sub_category_id": 1,
+            "sub_category_name": "Fresh Vegetables",
+            "category_id": 0,
+            "Type": "FV"
+        },
+        {
+            "sub_category_id": 2,
+            "sub_category_name": "Herbs & Seasonings",
+            "category_id": 0,
+            "Type": "HNS"
+        },
+        {
+            "sub_category_id": 3,
+            "sub_category_name": "Fresh Fruits",
+            "category_id": 0,
+            "Type": "FF"
+        },
+        {
+            "sub_category_id": 4,
+            "sub_category_name": "Exotic Fruits & Veggies",
+            "category_id": 0,
+            "Type": "EFV"
+        },
+        {
+            "sub_category_id": 5,
+            "sub_category_name": "Organic Fruits & Vegetables",
+            "category_id": 0,
+            "Type": "OFV"
+        }
+    ],
+    "ResponseCode": "1",
+    "ResponseMessage": "SubCategory List"
+}
